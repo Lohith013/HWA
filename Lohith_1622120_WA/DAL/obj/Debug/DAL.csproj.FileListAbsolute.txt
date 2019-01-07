@@ -1,0 +1,6 @@
+G:\Lohith_1622120_WA\DAL\bin\Debug\DAL.dll
+G:\Lohith_1622120_WA\DAL\bin\Debug\DAL.pdb
+G:\Lohith_1622120_WA\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+G:\Lohith_1622120_WA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\Lohith_1622120_WA\DAL\obj\Debug\DAL.dll
+G:\Lohith_1622120_WA\DAL\obj\Debug\DAL.pdb
